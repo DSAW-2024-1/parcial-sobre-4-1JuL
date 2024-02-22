@@ -88,7 +88,7 @@ button {
 }
 button:hover {
   background: linear-gradient(to right, #ff5151, #ff8e4d);
-  transition: all 1s;
+  box-shadow: 0px 7px 20px 0px #ff5151;
 }
 h1 {
   font-family: roboto-bold;
@@ -100,7 +100,7 @@ h1 {
   flex-direction: column;
   justify-content: space-between;
   align-items: flex-start;
-  height: 95vh; /* Establece la altura al 100% del viewport */
+  height: 95vh;
   padding: 20px;
 
   & h1 {
@@ -172,7 +172,7 @@ span{font-weight: bold;}
 
   .success-container{
     display: flex;
-    justify-content: space-around;
+    justify-content: center;
     align-items: center;
     background-color: white;
     width: 25rem;
@@ -192,6 +192,7 @@ span{font-weight: bold;}
     display: flex;
     flex-direction: column;
     align-items:flex-start;
+    padding-top: 0;
   }
   
   .icon-card-2 {
