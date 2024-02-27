@@ -37,4 +37,5 @@ Requerimientos:
 | Despliegue en Github Pages | 0.5     |
 
 Nota parcial: 4.8, ¡buen trabajo!
+Nota de acuerdo a las reglas: 4.8 x 0.8 -> 3.84
 ![image](https://github.com/DSAW-2024-1/parcial-sobre-4-1JuL/assets/50994778/baca717d-4a92-49e8-b1a6-c05c520c9ea9)
