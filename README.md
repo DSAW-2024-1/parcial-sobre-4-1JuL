@@ -31,7 +31,10 @@ Requerimientos:
 
 | Criterio                   | Puntaje |
 | -------------------------- | ------- |
-| Diseño Responsive          | 2       |
-| HTML Semántico             | 1       |
-| Funcionalidad              | 1.5     |
+| Diseño Responsive          | 2/2       |
+| HTML Semántico             | 1/1       |
+| Funcionalidad              | 1.3/1.5     |
 | Despliegue en Github Pages | 0.5     |
+
+Nota parcial: 4.8, ¡buen trabajo!
+![image](https://github.com/DSAW-2024-1/parcial-sobre-4-1JuL/assets/50994778/baca717d-4a92-49e8-b1a6-c05c520c9ea9)
